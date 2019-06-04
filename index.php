@@ -7,6 +7,7 @@
     $kid->setName('さゆり');
     $kid->setSex('girl');
     $kid->showName();
+    
 
     class Kid{
         private $name;
